@@ -4,4 +4,4 @@ A simple C++20 "library" which doesn't use double or float numbers to represent 
 It contains all the useful operator overloads.
 
 
-GitHub: https://github.com/AdrianD873/Fracture
+GitHub: https://github.com/AdrianDosch/Fracture
