@@ -154,7 +154,7 @@
     <ClInclude Include="Fracture\Fracture.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BspApp.cpp" />
+    <ClCompile Include="ExampleApp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
