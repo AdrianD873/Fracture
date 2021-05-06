@@ -151,7 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Fracture.hpp" />
+    <ClInclude Include="Fracture\Fracture.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BspApp.cpp" />

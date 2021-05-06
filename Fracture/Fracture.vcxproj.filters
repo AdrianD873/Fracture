@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Fracture.hpp">
+    <ClInclude Include="Fracture\Fracture.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
